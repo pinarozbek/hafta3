@@ -1,0 +1,40 @@
+
+.container{
+	width: 1250px;
+	height: auto;
+	background: orange;
+	margin-left: 75px;
+
+}
+.header{
+	width: 1250px;
+	height: 150px;
+	background: gray;
+	margin-left: 75px;
+}
+.menu-bar{
+	width: 1250px;
+	height: 70px;
+	background: yellow;
+	margin-left: 75px;
+}
+.side-bar{
+	width: 300px;
+	height: 1000px;
+	background: pink;
+	float: left;
+	margin-left: 75px;
+
+}
+.main-content{
+width: 900px;
+height: 1000px;
+background: red;
+float: right;
+
+}
+.footer{
+width: 1250px;
+
+background: black;
+}
